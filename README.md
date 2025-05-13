@@ -5,5 +5,4 @@
 今の所、教科書を読んで、重要そうだなと思ったところを自分のメモ用で書いています。
 
 text読んでいて、読みたくなった論文
-- # ![](https://aclanthology.org/2024.emnlp-main.822.pdf)
-- 
+- [A Probability–Quality Trade-off in Aligned Language Models and its Relation to Sampling Adaptors](https://aclanthology.org/2024.emnlp-main.822.pdf) 
